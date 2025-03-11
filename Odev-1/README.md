@@ -30,14 +30,17 @@
 ## :star2: Özellikler
 
 1. Onload() olarak yazılan promt alert:
+
     ![Clock-1](./img-page/prompt.png)
       
             
 2. Onload() olarak yazılan anlık saat çıktısı:
+
     ![Full-Page](./img-page/clock-2.png)
             
    
 3. If döngüsü ve Function ile 10'dan küçük rakamlı saat öğlerinin başına "0" eklemek;
+
     ![Clock-2](./img-page/clock-1.png)
           
 
