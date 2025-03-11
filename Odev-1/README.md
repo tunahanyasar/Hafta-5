@@ -9,7 +9,7 @@
 
 1.  Hafta-5 projelerimin olduğu toplu repomu klonlayın.
 *   git clone https://github.com/tunahanyasar/Hafta-5.git
-2. Odev-5 dosyasını çalıştırın.
+2. Odev-1 dosyasını çalıştırın.
 
 ---
 
